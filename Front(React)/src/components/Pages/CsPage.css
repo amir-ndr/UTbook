@@ -1,0 +1,27 @@
+.GenreShow{
+    display: grid;
+    grid-gap: 7px;
+    margin-top: 10px;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    grid-template-rows: 1fr;
+}
+
+.shit:hover{
+    background-color: green;
+}
+
+.card-body{
+    transition: all 0.3s linear;
+}
+
+.box:hover{
+    background-color: aqua;
+}
+
+.Book{
+    display: grid;
+    grid-gap: 85px;
+    margin-top: 10px;
+    grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
+    grid-template-rows: 1fr;
+}

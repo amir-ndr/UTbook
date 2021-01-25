@@ -1,0 +1,21 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    direction: rtl;
+}
+
+.navbar-brand{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cc{
+    color: black;
+}
+
+.ff{
+    margin-left: auto;
+}
+
+.q:hover{
+    background-color :chartreuse;
+}
